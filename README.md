@@ -1,6 +1,6 @@
-# ThermalBooth
+# ThermalBooth (Proof of Concept)
 
-A Raspberry Pi photo booth that captures photos and prints them instantly on a thermal printer. Mostly vibecoded.
+A Raspberry Pi photo booth that captures photos and prints them instantly on a thermal printer.
 
 Press a button → 3-2-1 countdown → snapshot → dithered black & white print. That's it.
 
